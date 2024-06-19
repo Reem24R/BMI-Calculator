@@ -61,7 +61,7 @@ const BMI = () => {
           </button>
         </form>
         <div
-          className="h-2/5 bg-slate-400  justify-center items-center text-xl rounded-lg mt-5 hidden hover:grid text-white font-mono text-center"
+          className="h-2/5 bg-slate-400  justify-center items-center text-2xl rounded-lg mt-5 hidden hover:grid text-white font-mono text-center"
           id="box"
         >
           <p id="result1"></p>
