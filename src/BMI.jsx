@@ -36,7 +36,7 @@ const BMI = () => {
   return (
     <div className="bg-img flex justify-center items-center">
       <div className="card bg-gray-300 rounded-lg w-2/5 h-3/5 p-10">
-        <h1 className="text-black font-medium text-2xl">BMI calc</h1>
+        <h1 className="text-black font-medium text-2xl">BMI Calculator </h1>
         <form className="mt-10">
           <div>
             <label className="text-black font-medium text-lg">Weight</label>
